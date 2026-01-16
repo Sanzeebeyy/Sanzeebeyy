@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development and Machine Learnings<br>🤝 I’m looking for help with more Project Ideas<br>🌱 I’m currently learning Fast API and Deep Learning Models<br>💬 Ask me anything about Literature and I take your whole day lol<br>⚡ Fun fact "Life is beautiful if you choose to Live"
+🔭 I’m currently working on Full Stack Development and Machine Learnings<br>🤝 I’m looking for help with more Project Ideas<br>🌱 I’m currently learning Fast API and Deep Learning Models<br>💬 Ask me anything about Literature and I take your whole day lol<br>⚡ Fun fact "World is beautiful place to live if you choose to Live"
 
 
 ## 🌐 Socials:
