@@ -23,7 +23,7 @@
 ## 😗 Some Dialogues From My Favorite VideoGames:
 "Honor Died On The Beach" - Ghost Of Tshushima <br>
 "Maybe, I Am Afraid" - Read Dead Redemption 2 <br>
-"Me, Ezio, Ezio Auditore Is Still Alive" - Assassin's Creed II <br>
+"The Auditore Are Not Dead. I'm Still Here. ME! Ezio! Ezio Auditore!" - Assassin's Creed II <br>
 "My Name Is Markus" - Detroit: Become Human <br>
 
 
