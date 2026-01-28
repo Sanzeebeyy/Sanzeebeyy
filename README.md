@@ -20,11 +20,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 -->
 
-### 😗 Some Lines From My All Time Favorite VideoGame:
-"It is a good life we lead brother" <br>
-The best <br>
-"May it never change" <br>
-And may it never change Us <br>
+## 😗 Some Dialogues From My Favorite VideoGames: <hr>
+"Honor Died On The Beach" - Ghost Of Tshushima <br>
+"Maybe, I am afraid" - Read Dead Redemption 2 <br>
+"Me, Ezio, Ezio Auditore is Still Alive" - Assassin's Creed II <br>
+"My name is Markus" - Detroit: Become Human <br>
 
 
 
