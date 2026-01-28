@@ -20,11 +20,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 -->
 
-### 😗 Some Lines From My All Time Favorite VideoGame
-"It is a good life we lead brother"
-The best
-"May it never change"
-And may it never change Us
+### 😗 Some Lines From My All Time Favorite VideoGame:
+"It is a good life we lead brother" <br>
+The best <br>
+"May it never change" <br>
+And may it never change Us <br>
 
 
 
