@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 -->
 
-## 😗 Some Dialogues From My Favorite VideoGames: <hr>
+## 😗 Some Dialogues From My Favorite VideoGames:
 "Honor Died On The Beach" - Ghost Of Tshushima <br>
 "Maybe, I am afraid" - Read Dead Redemption 2 <br>
 "Me, Ezio, Ezio Auditore is Still Alive" - Assassin's Creed II <br>
