@@ -1,9 +1,8 @@
-# ⚡ What Am I Currently Doing?:
-Finished the Backend, and moving on with Frontend of my full stack web project "DateMe" about a dating app where user can like, reject anyone who's on the app and when both the parties like each other, there is a match and they can chat within the app
-
 # 💫 About Me:
 🔭 I’m currently working on a Dating App full stack project named "DateMe"<br>🤝 Can collaborate with any project under my Tech Stack<br>🌱 I’m currently learning Backend Development and Deep Learning Models<br>💬 Ask me anything about Literature and I take your whole day lol<br>⚡ Fun fact "World is beautiful place to live if you choose to Live"
 
+## ⚡ What Am I Currently Doing?
+Finished the Backend, and moving on with Frontend of my full stack web project "DateMe" about a dating app where user can like, reject anyone who's on the app and when both the parties like each other, there is a match and they can chat within the app
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SanjibPoudel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_____sanjeeb_____) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjibpoudel49@gmail.com) 
