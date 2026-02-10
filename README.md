@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FullStack Development and ML<br>🤝 Can collaborate with any project under my Tech Stack<br>🌱 I’m currently learning Backend Development and Deep Learning Models<br>💬 Ask me anything about Literature and I take your whole day lol <br>⚡ Fun fact "World is beautiful place to live if you choose to Live"
+🔭 I’m currently working on Full Stack Development and ML<br>🤝 Can collaborate with any project under my Tech Stack<br>🌱 I’m currently learning Backend Development and Deep Learning Models<br>💬 Ask me anything about Literature and I take your whole day lol <br>⚡ Fun fact "World is beautiful place to live if you choose to Live"
 
 ## ⚡ What Am I Currently Doing?
 Finished the Backend, and moving on with Frontend of my full stack web project "DateMe" about a dating app where user can like, reject anyone who's on the app and when both the parties like each other, there is a match and they can chat within the app
