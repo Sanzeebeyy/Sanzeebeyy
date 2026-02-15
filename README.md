@@ -2,7 +2,7 @@
 🔭 I’m currently working on Full Stack Development and ML<br>🤝 Can collaborate with any project under my Tech Stack<br>🌱 I’m currently learning Backend Development and Deep Learning Models<br>💬 Ask me anything about Literature (mostly poems) <br>⚡ Fun fact "World Is Beautiful Place To Live If You Choose To Live"
 
 ## ⚡ What Am I Currently Doing?
-After completion of my full stack dating app "DateMe", now moving on with another full stack app "Dwellix" , An app for landlords and tenants to have seamless interaction (more information in readme.md of Dwellix repo)
+After completion of my full stack dating app "DateMe", now moving on with another full stack app "Dwellix" , an app for seamless connection between landlords and tenants (more information in readme.md of Dwellix repo)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SanjibPoudel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_____sanjeeb_____) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjibpoudel49@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeeb-poudel-337869338)
